@@ -1,0 +1,1 @@
+rango x y = [x..y]

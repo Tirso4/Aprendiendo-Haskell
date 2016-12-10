@@ -1,0 +1,10 @@
+main>:t "a"
+:: [Char]
+main>:t "hola”
+::[Char]
+main>:t True
+::[Bool]
+main>:t 6
+::[Num]
+main>:6.8
+:: Fractional a => a
